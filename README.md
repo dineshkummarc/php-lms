@@ -1,9 +1,7 @@
 # Library Management System with Barcode using PHP
-
 <div align="middle"><img src="banner.png" alt="Banner Image"/></div>
 
 ### Description
-
 <p><em>This system is simple yet a useful system that I create using PHP/MySQL that uses barcodes for the borrowing books. This system I created may help you with your future projects. Also, for the beginners who really want to learn basic coding in PHP/MySQL. It is a user-friendly kind of this system.</em></p>
 
 ### Features
