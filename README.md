@@ -25,8 +25,6 @@
   <li><strong>Generate Reports</strong></li>
 </ul>
 
-Visit [sourcecodester.com](https://www.sourcecodester.com/tutorials/php/10851/library-management-system-barcode.html) for more information about this project.
-
 ### Website Info
 
 | Title | Library Management System with Barcode using PHP with Source Code |
