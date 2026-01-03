@@ -89,7 +89,7 @@
                             <div class="clearfix"></div>
                             <br />
                             <div>
-                                <h1><i class="fa fa-university" style="font-size: 26px;"></i> Valladolid National High School</h1>
+                                <h1><i class="fa fa-university" style="font-size: 26px;"></i> Dineshkummarc</h1>
 
                                 <p>© <?php echo date('Y'); ?> <i class="fa fa-book"></i> Library Management System</p>
                             </div>
