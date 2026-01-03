@@ -3,7 +3,7 @@
                 <div class="left_col scroll-view">
 
                     <div class="navbar nav_title" style="border: 0;">
-                        <a href="home.php" class="site_title"><i class="fa fa-university"></i> <span>Valladolid NHS</span></a>
+                        <a href="home.php" class="site_title"><i class="fa fa-university"></i> <span>LMS</span></a>
                     </div>
                     <div class="clearfix"></div>
 
