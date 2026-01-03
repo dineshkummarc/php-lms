@@ -29,7 +29,5 @@
 
 | Title | Library Management System with Barcode using PHP with Source Code |
 |:---|:---|
-| Website | [www.sourcecodester.com](https://www.sourcecodester.com) |
-| Link | https://www.sourcecodester.com/tutorials/php/10851/library-management-system-barcode.html |
 | Language | PHP |
-| Developer/Uploader | [alpha_luna](https://www.sourcecodester.com/users/rolynjasper) |
+| Developer/Uploader | [alpha_luna] |
